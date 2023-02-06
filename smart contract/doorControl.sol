@@ -1,7 +1,7 @@
 /*doorControl.sol es un smart contract Ethereum simple.
 *la variable doorStatus guarda el estado de la puerta del contenedor abierto(true)/cerrado(false)
 *la función update() sirve para modificar el estado de doorStatus
-*/con la funcion read() leemos la variable doorStatus
+*con la funcion read() leemos la variable doorStatus*/
 
 // SPDX-License-Identifier: MIT
 
